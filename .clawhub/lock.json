@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "coding-agent": {
+      "version": "1.0.1",
+      "installedAt": 1770170655203
+    },
+    "fast-browser-use": {
+      "version": "1.0.5",
+      "installedAt": 1770205778732
+    },
+    "autofillin": {
+      "version": "1.2.1",
+      "installedAt": 1770205780270
+    }
+  }
+}
