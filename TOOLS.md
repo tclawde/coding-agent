@@ -31,6 +31,12 @@ Things like:
 - Default speaker: Kitchen HomePod
 ```
 
+### Browser
+
+- `CHROME_PATH`: Path to Chrome/Chromium for fast-browser-use
+  - Playwright: `/Users/apple/Library/Caches/ms-playwright/chromium-1208/chrome-mac-arm64/Google Chrome for Testing`
+  - System: `/Applications/Google Chrome.app/Contents/MacOS/Google Chrome`
+
 ## Why Separate?
 
 Skills are shared. Your setup is yours. Keeping them apart means you can update skills without losing your notes, and share skills without leaking your infrastructure.

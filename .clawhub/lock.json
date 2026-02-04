@@ -12,6 +12,10 @@
     "autofillin": {
       "version": "1.2.1",
       "installedAt": 1770205780270
+    },
+    "xiaohongshu-mcp": {
+      "version": "1.0.0",
+      "installedAt": 1770209731965
     }
   }
 }

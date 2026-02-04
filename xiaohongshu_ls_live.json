@@ -1,0 +1,12 @@
+{
+  "b1b1": "1",
+  "dsllt": "1770208453004",
+  "XHS_STRATEGY_BOX": "{\"firstVisit-\":false}",
+  "p1": "1",
+  "last_tiga_update_time": "1770208453027",
+  "NEW_XHS_ABTEST_REPORT_KEY": "{\"ee8cdc81417c129c63418ef23cb2b05669833cc500000000240200b8dedb3239-447d-521c-9bd0-dabd6008beeb\":\"2026-02-04\"}",
+  "sdt_source_storage_key": "{\"xhsTokenUrl\":\"https://fe-static.xhscdn.com/as/v1/3e44/public/bf7d4e32677698655a5cadc581fd09b3.js\",\"signVersion\":\"1\",\"reportUrl\":\"/api/sec/v1/shield/webprofile\",\"desVersion\":\"2\",\"validate\":true,\"commonPatch\":[\"/fe_api/burdock/v2/note/post\",\"/api/sns/web/v1/comment/post\",\"/api/sns/web/v1/note/like\",\"/api/sns/web/v1/note/collect\",\"/api/sns/web/v1/user/follow\",\"/api/sns/web/v1/feed\",\"/api/sns/web/v1/login/activate\",\"/api/sns/web/v1/note/metrics_report\",\"/api/redcaptcha\",\"/api/store/jpd/main\",\"/phoenix/api/strategy/getAppStrategy\",\"/web_api/sns/v2/note\"],\"signUrl\":\"https://fe-static.xhscdn.com/as/v1/f218/a15/public/04b29480233f4def5c875875b6bdc3b1.js\",\"extraInfo\":{\"dsUrl\":\"https://fe-static.xhscdn.com/as/v2/ds/6545c70e73d7e06896b3c574a70b5438.js\"},\"url\":\"https://fe-static.xhscdn.com/as/v2/fp/962356ead351e7f2422eb57edff6982d.js\"}",
+  "xhs-pc-theme": "system",
+  "b1": "I38rHdgsjopgIvesdVwgIC+oIELmBZ5e3VwXLgFTIxS3bqwErFeexd0ekncAzMFYnqthIhJeSnMDKutRI3KsYorWHPtGrbi0P9WfIi/eWc6eYqtyQApPI37ekmR6QLQ5Ii6sdnoeSfqYHqwl2qt5B0DoIx+PGDi/sutkIx0sxuwr4qtiIhuaIE3e3LV0I3VTIC7e0utl2ADmsLveDSKsSPw5IEvsiVtJOqw8BuwfPpdeTFWOIx4TIiu6ZPwrPut5IvlaLbgs3qtxIxes1VwHIkumIkIyejgsY/WTge7eSqte/D7sDcpipedeYrDtIC6eDVw2IENsSqtlnlSuNjVtIvoekqt3cZ7sVo4gIESyIhE2+9DUIvzy4I8OIic7ZPwAIviv4o/sDLds6PwVIC7eSd7ej9S4IEvs3IPMtVwUIids3s/sxZNeiVtbcUeeYVwEIvRacAoefVwCL9JsDPwPIxltIxZSouwOgVwpsr4heU/e6LveDPwFIvgs1ros1DZiIi7sjbos3grFIE0sDqwHIvmZaVtfaVwBIE7sDqwxIiNs3uw5IkvsdqtlwuwLoVtUI3zXIvVr27lk2Ive1utCIEDtIkJeYut4bYRtn/0ejgI7Ih4s2uwfJPwSI35skqwWGD5s6WAs3phwIhos3fOs3utscPwaICJsWPw5IiJekeqLICKejd/sfPtUIx7sxuwD4BYaIhQgIv5s1M6e6gvs3zoeYuwmIhkiIhD5cVwrIxusIkNe1I+Vyn3ekPw6I3c68uw/mrAeWZ0sWqt//qtzIxh8Ii8ZLqwqGuwbIxosVb3exVt2muwaIilZNqw0IxlLpBlsIEvs0nOsiMOejVwmZPtpIiVWIiOsdutCIh3eDdm5IhQ/eZloIhpOIC3e1qw7qutJPVtxIxIZIC5s0j0e0qwE4oYvIxFWyVwsButnIxhDIxYcIxbjIheekrJskDS6wVwsIhrlaVwGbuwiIE3e19WIIir9nd6e0qtnoVt2bYLwenrWIiQsKPwxI37sWUkWI3Q5PPwgIxRhsPt+gut2",
+  "xhs_context_networkQuality": "EXCELLENT"
+}
