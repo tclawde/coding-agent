@@ -1,5 +1,7 @@
 # Coding Agent Skill for OpenClaw
 
+> Based on the official [OpenClaw coding-agent](https://github.com/openclaw/openclaw/tree/main/skills/coding-agent) skill with **iFlow support added**.
+
 OpenClaw skill for running AI coding agents via background process for programmatic control.
 
 ## Supported Agents
