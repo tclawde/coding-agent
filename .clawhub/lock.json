@@ -44,6 +44,38 @@
     "test-runner": {
       "version": "1.0.0",
       "installedAt": 1770250553541
+    },
+    "things-mac": {
+      "version": "1.0.0",
+      "installedAt": 1770258754077
+    },
+    "obsidian": {
+      "version": "1.0.0",
+      "installedAt": 1770258756744
+    },
+    "apple-notes": {
+      "version": "1.0.0",
+      "installedAt": 1770258759485
+    },
+    "apple-reminders": {
+      "version": "1.0.0",
+      "installedAt": 1770258765061
+    },
+    "himalaya": {
+      "version": "1.0.0",
+      "installedAt": 1770258767806
+    },
+    "bird": {
+      "version": "1.0.0",
+      "installedAt": 1770258774663
+    },
+    "video-frames": {
+      "version": "1.0.0",
+      "installedAt": 1770258793507
+    },
+    "skill-creator": {
+      "version": "0.1.0",
+      "installedAt": 1770258796550
     }
   }
 }
