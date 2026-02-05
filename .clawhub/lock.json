@@ -16,6 +16,34 @@
     "xiaohongshu-mcp": {
       "version": "1.0.0",
       "installedAt": 1770209731965
+    },
+    "chromadb-memory": {
+      "version": "1.0.0",
+      "installedAt": 1770250514551
+    },
+    "miniflux-news": {
+      "version": "0.1.0",
+      "installedAt": 1770250525408
+    },
+    "exa-plus": {
+      "version": "1.0.0",
+      "installedAt": 1770250535605
+    },
+    "logseq": {
+      "version": "1.0.0",
+      "installedAt": 1770250538718
+    },
+    "webapp-testing": {
+      "version": "0.1.0",
+      "installedAt": 1770250541480
+    },
+    "debug-pro": {
+      "version": "1.0.0",
+      "installedAt": 1770250548447
+    },
+    "test-runner": {
+      "version": "1.0.0",
+      "installedAt": 1770250553541
     }
   }
 }
